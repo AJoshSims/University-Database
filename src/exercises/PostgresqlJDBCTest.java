@@ -25,7 +25,7 @@ public class PostgresqlJDBCTest
         // you need to change this (mh) 
         String username = "jnsims2";
         // you need to change this (mh) 
-        String password = "";
+        String password = "peopaj99eoo0";
         // you need to change this (mh) 
         String tablename = "customers"; // Make sure this table exists
                                         // in your database
